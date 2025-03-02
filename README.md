@@ -4,8 +4,7 @@
 
 ## CONTACT
 
-  + <a href="https://www.instagram.com/kimsnmyng" target="_blank">
-    <img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" style="width: 20px; height: 20px;"/></a>  : kimsnmyng
+ keemsnmyn@naver.com
 
 
 
